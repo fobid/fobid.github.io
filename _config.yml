@@ -1,22 +1,22 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Jalpc"
-description: "Jack's blog,use Jekyll and github pages."
+title: "James"
+description: "James's blog,use Jekyll and github pages."
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
 baseurl: "/"
-url: "http://www.jack003.com"
+url: "https://fobid.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'JiaKunUp'
-  avatar: 'static/img/landing/Jack.jpg'
+  name: 'James'
+  first_name: 'Sungtae'
+  last_name: 'Lim'
+  email: 'fobidbumz@gmail.com'
+  facebook_username: 'fobidlim'
+  github_username: 'fobid'
+  avatar: 'static/img/landing/James.jpg'
   desc: 'I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
 
 # comment
