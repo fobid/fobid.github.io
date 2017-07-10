@@ -38,4 +38,5 @@
     i18n: shoplay_date
   job:
     detail: Android, Web, Server
+    i18n: shoplay_job
   icon: fa-plus-square
