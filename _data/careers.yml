@@ -1,56 +1,83 @@
 # careers section data
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    default: Admission
+    i18n: university
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    default: I transferred from Joongbu University to Korea National Open University.
+    i18n: university_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    default: Jul. 2016
+    i18n: university_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
+    default: Student
+    i18n: university_job
+  icon: fa-university
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    default: Grap
+    i18n: grap
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    default: Now I am in Partner Co.,Ltd and develop application with Android and ReactiveX(Rx).
+    i18n: grap_des
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    default: Jan. 2015
+    i18n: grap_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
+    detail: Android Developer
+    i18n: grap_job
+  icon: fa-android
 
 - name:
-    detail: Ucloud
-    i18n: ucloud
+    detaul: Blossom
+    i18n: blossom
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
+    detaul: In Blossom, I developed Android application from Shinsegae I&C.
+    i18n: blossom_des
   date:
-    detail: Sep. 2013
-    i18n: ucloud_date
+    detail: Jan. 2015
+    i18n: blossom_date
   job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
-
+    detail: Android Developer
+    i18n: blossom_job
+  icon: fa-android
+    
 - name:
-    detail: Graduation
-    i18n: college
+    detail: Sitemap
+    i18n: sitemap
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
-    i18n: college_des
+    detail: In Sitemap, I developed Webapp.
+    i18n: sitemap_des
   date:
-    detail: Jul. 2013
-    i18n: college_date
+    detail: Sep. 2014
+    i18n: sitemap_date
   job:
-    detail: Student
-    i18n: college_job
-  icon: fa-book
+    detail: Android Developer
+    i18n: sitemap_job
+  icon: fa-android
+  
+- name:
+    detail: Shocount
+    i18n: shocount
+  desc:
+    detail: In Shocount, I developed vertual account system with ASP and MS-SQL.
+    i18n: shocount_des
+  date:
+    detail: Jun. 2014
+    i18n: shocount_date
+  job:
+    detail: Web, Server
+    i18n: shocount_job
+  icon: fa-money
+  
+- name:
+    detail: Shoting
+    i18n: shoting
+  desc:
+    detail: In Shoting, I developed SNS chatting application.
+    i18n: shoting_des
+  date:
+    detail: Jun. 2014
+    i18n: shoting_date
+  job:
+    detail: Android, Web, Server
+  icon: fa-wechat
