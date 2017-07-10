@@ -9,10 +9,10 @@
   percentage: 80
   
 - name: HTML/CSS
-  percentage: 65
+  percentage: 55
 
 - name: jQuery
-  percentage: 85
+  percentage: 55
 
 - name: SQL
   percentage: 40
