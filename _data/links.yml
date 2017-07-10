@@ -5,6 +5,13 @@
   website: 'http://blog.fobid.me'
 #   email: 'fobidbumz@gmail.com'
 
+- last_name: Lim
+  middle_name: James
+  first_name: Sungtae
+  desc: 'LinkedIn.'
+  website: 'https://www.linkedin.com/in/fobid/'
+  email: 'fobidbumz@gmail.com'
+
 - last_name: TFC
   first_name: 
   desc: 'Threatful Culture'
