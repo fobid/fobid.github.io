@@ -3,7 +3,7 @@
   first_name:
   desc: 'Blog'
   website: 'http://blog.fobid.me'
-#   email: 'fobidbumz@gmail.com'
+  email: 'fobidbumz@gmail.com'
 
 - last_name: Lim
   middle_name: James
