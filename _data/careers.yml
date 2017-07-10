@@ -1,26 +1,26 @@
 # careers section data
 - name:
-    default: Admission
+    detail: Admission
     i18n: university
   desc:
-    default: I transferred from Joongbu University to Korea National Open University.
+    detail: I transferred from Joongbu University to Korea National Open University.
     i18n: university_des
   date:
-    default: Jul. 2016
+    detail: Jul. 2016
     i18n: university_date
   job:
-    default: Student
+    detail: Student
     i18n: university_job
   icon: fa-university
 
 - name:
-    default: Partner Co,.Ltd
+    detail: Partner Co,.Ltd
     i18n: partner
   desc:
-    default: Now I am in Partner Co.,Ltd and develop application with Android and ReactiveX(Rx).
+    detail: Now I am in Partner Co.,Ltd and develop application with Android and ReactiveX(Rx).
     i18n: partner_des
   date:
-    default: Jan. 2015
+    detail: Jan. 2015
     i18n: partner_date
   job:
     detail: Android Developer
