@@ -1,29 +1,26 @@
 # projects section data
-- name: 'Saplatform'
-  i18n: 'saplatform'
-  repo: 'saplatform'
-  img: 'static/img/landing/saplatform.png'
-  desc: 'Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.'
+# - name: 'Saplatform'
+#   i18n: 'saplatform'
+#   repo: 'saplatform'
+#   img: 'static/img/landing/saplatform.png'
+#   desc: 'Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.'
 
-- name: 'Jalpc'
-  i18n: 'jalpc'
-  repo: 'jalpc_jekyll_theme'
+- name: 'Grap'
+  i18n: 'grap'
   img: 'static/img/landing/jekyll.png'
-  desc: "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices."
+  desc: "Partner Co,.LTD 에서 서비스 하고있는 Grap(https://grap.io/)에서 Android 개발을 담당하여 사내 CI(Jenkins) 서버로 테스트 및 배포 자동화 시스템 구축, MVP 패턴과 Rx를 이용하여 개발됐습니다."
 
-- name: 'Jalpc-A'
-  i18n: 'angularjs'
-  repo: 'Jalpc-A'
+- name: 'Blossom'
+  i18n: 'blossom'
   img: 'static/img/landing/angularjs.png'
-  desc: "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well."
+  desc: "신세계 I&C에서 진행하고, 신세계 그룹에서 현재 사용하고 있는 사내 그룹 웨어 서비스 입니다. Android 개발을 담당하며 REST API 연동, MQTT와 FCM으로 푸쉬 서비스를 만들고, Rx를 사용하여 MVP 패턴에 적합하게 설계되었습니다."
 
-- name: 'Rsser'
-  i18n: 'rsser'
-  repo: 'Rsser'
+- name: 'Shocount'
+  i18n: 'shocount'
   img: 'static/img/landing/rsser.png'
-  desc: Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually.
+  desc: "쇼카운트는 가상 계좌 시스템 서비스 입니다. Shoting 앱과 연동하여 모바일 머니를 가상 계좌로 입금하고, 이를 실제 계좌로 송금할 수 있습니다."
 
-- name: 'FamilyCODE Wchat'
-  i18n: 'familycode'
+- name: 'Shoting'
+  i18n: 'shoting'
   img: 'static/img/landing/familycode.png'
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+  desc: "쇼팅은 위치 기반 채팅 앱입니다. server side는 JAVA와 MySQL, client는 Android와 PHP로 구성됐습니다. GPS 데이터로 대한민국 내 주요 도시 별, 사용자 연령대 별 채팅방을 만들어놓고, 사용자 GPS 데이터에 포함되는 도시와 연령대의 채팅방에 다중으로 입장합니다. GCM으로 채팅을 구현하고, PG사와 가상 계좌(Shocount) 연동으로 모바일 머니 충전 및 실제 계좌로 송금 서비스가 가능합니다."
