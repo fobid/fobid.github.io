@@ -14,70 +14,28 @@
   icon: fa-university
 
 - name:
-    default: Grap
-    i18n: grap
+    default: Partner Co,.Ltd
+    i18n: partner
   desc:
     default: Now I am in Partner Co.,Ltd and develop application with Android and ReactiveX(Rx).
-    i18n: grap_des
+    i18n: partner_des
   date:
     default: Jan. 2015
-    i18n: grap_date
+    i18n: partner_date
   job:
     detail: Android Developer
-    i18n: grap_job
-  icon: fa-android
-
-- name:
-    detaul: Blossom
-    i18n: blossom
-  desc:
-    detaul: In Blossom, I developed Android application from Shinsegae I&C.
-    i18n: blossom_des
-  date:
-    detail: Jan. 2015
-    i18n: blossom_date
-  job:
-    detail: Android Developer
-    i18n: blossom_job
-  icon: fa-android
-    
-- name:
-    detail: Sitemap
-    i18n: sitemap
-  desc:
-    detail: In Sitemap, I developed Webapp.
-    i18n: sitemap_des
-  date:
-    detail: Sep. 2014
-    i18n: sitemap_date
-  job:
-    detail: Android Developer
-    i18n: sitemap_job
+    i18n: partner_job
   icon: fa-android
   
 - name:
-    detail: Shocount
-    i18n: shocount
+    detail: Shoplay
+    i18n: shoplay
   desc:
-    detail: In Shocount, I developed vertual account system with ASP and MS-SQL.
-    i18n: shocount_des
+    detail: In Shoplay, I developed server with JAVA, Android client, Web client
+    i18n: shoplay_des
   date:
     detail: Jun. 2014
-    i18n: shocount_date
-  job:
-    detail: Web, Server
-    i18n: shocount_job
-  icon: fa-money
-  
-- name:
-    detail: Shoting
-    i18n: shoting
-  desc:
-    detail: In Shoting, I developed SNS chatting application.
-    i18n: shoting_des
-  date:
-    detail: Jun. 2014
-    i18n: shoting_date
+    i18n: shoplay_date
   job:
     detail: Android, Web, Server
-  icon: fa-wechat
+  icon: fa-plus-square
