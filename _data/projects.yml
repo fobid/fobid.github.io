@@ -44,5 +44,5 @@
 
 - name: 'Shoting'
   i18n: 'shoting'
-  img: 'static/img/landing/familycode.png'
+  img: 'static/img/landing/shoting.png'
   desc: "쇼팅은 위치 기반 채팅 앱입니다. server side는 JAVA와 MySQL, client는 Android와 PHP로 구성됐습니다. GPS 데이터로 대한민국 내 주요 도시 별, 사용자 연령대 별 채팅방을 만들어놓고, 사용자 GPS 데이터에 포함되는 도시와 연령대의 채팅방에 다중으로 입장합니다. GCM으로 채팅을 구현하고, PG사와 가상 계좌(Shocount) 연동으로 모바일 머니 충전 및 실제 계좌로 송금 서비스가 가능합니다."
