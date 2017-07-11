@@ -39,7 +39,7 @@
 
 - name: 'Shocount'
   i18n: 'shocount'
-  img: 'static/img/landing/rsser.png'
+  img: 'static/img/landing/shocount.png'
   desc: "쇼카운트는 가상 계좌 시스템 서비스 입니다. Shoting 앱과 연동하여 모바일 머니를 가상 계좌로 입금하고, 이를 실제 계좌로 송금할 수 있습니다."
 
 - name: 'Shoting'
