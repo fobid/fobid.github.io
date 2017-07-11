@@ -7,7 +7,7 @@
 
 - name: 'Read Only'
   i18n: 'readonly'
-  img: 'static/img/landing/jekyll.png'
+  img: 'static/img/landing/readonly.png'
   desc: "웹 페이지 스크랩 북입니다. 현재 Android play store 에서 다운받을 수 있습니다."
   
 - name: 'DODOYOUNG'
@@ -18,13 +18,13 @@
 - name: 'LinkableText'
   i18n: 'linkable'
   repo: 'linkable-text-android'
-  img: 'static/img/landing/jekyll.png'
+  img: 'static/img/landing/android.png'
   desc: "사용자 멘션(@)과 해시태그(#)를 포함한 TextView link click action을 callback으로 받을 수 있는 Android library 입니다."
   
 - name: 'WebViewer'
   i18n: 'webviewer'
   repo: 'webviewer-android'
-  img: 'static/img/landing/jekyll.png'
+  img: 'static/img/landing/android.png'
   desc: "Android 앱 내 custom web viewer 입니다."
 
 - name: 'Grap'
