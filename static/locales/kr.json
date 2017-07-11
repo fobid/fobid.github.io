@@ -13,17 +13,22 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "我是一名全栈工程师，有开发网站，运维自动化，编写脚本的经验。人生是不断学习的过程，工作使我变的更严谨，旅行让我的生活更加多彩。通过编程和旅行我能结识到很多朋友。"
+    "des": "안드로이드 개발자입니다."
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
     "my_projects": "My Projects",
-    "saplatform": "Saplatform是一个自动化运维服务，包括资产管理、项目发布、数据库管理等功能,它可以管理大量服务器。",
-    "jalpc": "Jalpc是一个非常简洁、漂亮和快速部署的Jekyll主题，它有非常全面的功能，可以很方便的修改和使用，适应多种设备。",
-    "angularjs": "这是一个Angularjs写的前端应用，使用Jelyll部署在github的gh-pages上，后台使用Leancloud，你也可以使用Parse。",
-    "rsser": "Rsser是一个Ionic应用，在这个应用下，我们可以自由的阅读新闻和文章，你可以从给定的列表中添加rss地址也可以手动添加。"
+    "readonly": "웹 페이지 스크랩 북입니다. 현재 Android play store 에서 다운받을 수 있습니다.",
+    "dodoyoung": "Node.js 로 개발 된 포트폴리오 웹 사이트 입니다.",
+    "linkable": "사용자 멘션(@)과 해시태그(#)를 포함한 TextView link click action을 callback으로 받을 수 있는 Android library 입니다.",
+    "webviewer": "Android 앱 내 custom web viewer 입니다."
+    "grap": "Partner Co,.LTD 에서 서비스 하고있는 Grap(https://grap.io/)에서 Android 개발을 담당하여 사내 CI(Jenkins) 서버로 테스트 및 배포 자동화 시스템 구축, MVP 패턴과 Rx를 이용하여 개발됐습니다."
+    "blossom": "신세계 I&C에서 진행하고, 신세계 그룹에서 현재 사용하고 있는 사내 그룹 웨어 서비스 입니다. Android 개발을 담당하며 REST API 연동, MQTT와 FCM으로 푸쉬 서비스를 만들고, Rx를 사용하여 MVP 패턴에 적합하게 설계되었습니다."
+    "sitemap": "웹앱입니다."
+    "shocount": "쇼카운트는 가상 계좌 시스템 서비스 입니다. Shoting 앱과 연동하여 모바일 머니를 가상 계좌로 입금하고, 이를 실제 계좌로 송금할 수 있습니다."
+    "shoting": "쇼팅은 위치 기반 채팅 앱입니다. server side는 JAVA와 MySQL, client는 Android와 PHP로 구성됐습니다. GPS 데이터로 대한민국 내 주요 도시 별, 사용자 연령대 별 채팅방을 만들어놓고, 사용자 GPS 데이터에 포함되는 도시와 연령대의 채팅방에 다중으로 입장합니다. GCM으로 채팅을 구현하고, PG사와 가상 계좌(Shocount) 연동으로 모바일 머니 충전 및 실제 계좌로 송금 서비스가 가능합니다."
   },
   "career":{
     "my_career": "My Career",
