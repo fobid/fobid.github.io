@@ -3,7 +3,7 @@
     detail: Admission
     i18n: university
   desc:
-    detail: I transferred from Joongbu University to Korea National Open University.
+    detail: 중부대학교에서 방송통신대학교 2학년 편입.
     i18n: university_des
   date:
     detail: Jul. 2016
@@ -17,7 +17,7 @@
     detail: Partner Co,.Ltd
     i18n: partner
   desc:
-    detail: Now I am in Partner Co.,Ltd and develop application with Android and ReactiveX(Rx).
+    detail: 현재 파트너에서 ReactiveX(Rx)를 활용한 Grap(https://grap.io) Android service를 개발하고 있습니다.
     i18n: partner_des
   date:
     detail: Jan. 2015
