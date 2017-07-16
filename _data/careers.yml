@@ -9,7 +9,7 @@
     detail: Jul. 2016
     i18n: university_date
   job:
-    detail: Student
+    detail: 학생
     i18n: university_job
   icon: fa-university
 
@@ -23,7 +23,7 @@
     detail: Jan. 2015
     i18n: partner_date
   job:
-    detail: Android Developer
+    detail: Android 개발
     i18n: partner_job
   icon: fa-android
   
@@ -37,6 +37,6 @@
     detail: Jun. 2014
     i18n: shoplay_date
   job:
-    detail: Android, Web, Server
+    detail: Server, Web, Android 개발
     i18n: shoplay_job
   icon: fa-plus-square
