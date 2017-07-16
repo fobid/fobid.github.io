@@ -3,7 +3,7 @@
     detail: 편입
     i18n: university
   desc:
-    detail: 중부대학교에서 방송통신대학교 2학년 편입.
+    detail: 중부대학교에서 방송통신대학교 2학년 편입
     i18n: university_des
   date:
     detail: Jul. 2016
@@ -23,7 +23,7 @@
     detail: Jan. 2015
     i18n: partner_date
   job:
-    detail: Android 개발
+    detail: Android 개발자
     i18n: partner_job
   icon: fa-android
   
@@ -31,12 +31,12 @@
     detail: 주식회사 쇼플레이
     i18n: shoplay
   desc:
-    detail: In Shoplay, I developed server with JAVA, Android client, Web client
+    detail: 쇼팅, 쇼카운트, 사이트맵 service를 개발하고, Server, Web, Android 를 담당하였습니다.
     i18n: shoplay_des
   date:
     detail: Jun. 2014
     i18n: shoplay_date
   job:
-    detail: Server, Web, Android 개발
+    detail: Server, Web, Android 개발자
     i18n: shoplay_job
   icon: fa-plus-square
