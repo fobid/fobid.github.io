@@ -28,7 +28,7 @@
   icon: fa-android
   
 - name:
-    detail: 주식회사 
+    detail: 주식회사 쇼플레이
     i18n: shoplay
   desc:
     detail: In Shoplay, I developed server with JAVA, Android client, Web client
