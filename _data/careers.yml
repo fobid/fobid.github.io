@@ -1,6 +1,6 @@
 # careers section data
 - name:
-    detail: Admission
+    detail: 편입
     i18n: university
   desc:
     detail: 중부대학교에서 방송통신대학교 2학년 편입.
@@ -14,7 +14,7 @@
   icon: fa-university
 
 - name:
-    detail: Partner Co,.Ltd
+    detail: 주식회사 파트너
     i18n: partner
   desc:
     detail: 현재 파트너에서 ReactiveX(Rx)를 활용한 Grap(https://grap.io) Android service를 개발하고 있습니다.
@@ -28,7 +28,7 @@
   icon: fa-android
   
 - name:
-    detail: Shoplay
+    detail: 주식회사 
     i18n: shoplay
   desc:
     detail: In Shoplay, I developed server with JAVA, Android client, Web client
