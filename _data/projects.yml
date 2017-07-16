@@ -13,7 +13,7 @@
 - name: 'DODOYOUNG'
   i18n: 'dodoyoung'
   img: 'static/img/landing/jekyll.png'
-  desc: 'Node.js 로 개발 된 포트폴리오 웹 사이트 입니다.'
+  desc: 'Node.js 로 개발 된 portfolio site 입니다.'
   
 - name: 'LinkableText'
   i18n: 'linkable'
