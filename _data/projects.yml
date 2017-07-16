@@ -35,7 +35,7 @@
 - name: 'Blossom'
   i18n: 'blossom'
   img: 'static/img/landing/blossom.png'
-  desc: "신세계 I&C에서 진행하고, 신세계 그룹에서 현재 사용하고 있는 사내 그룹 웨어 서비스 입니다. Android 개발을 담당하며 REST API 연동, MQTT와 FCM으로 푸쉬 서비스를 만들고, Rx를 사용하여 MVP 패턴에 적합하게 설계되었습니다."
+  desc: "주식회사 파트너와 신세계 I&C에서 진행하고, 신세계 그룹에서 현재 사용하고 있는 사내 groupware service 입니다. Android 개발을 담당하며 FCM과 함께 MQTT push module을 사용하고, Rx 1.x, Realm, MVP pattern 으로 개발됐습니다."
 
 - name: 'Sitemap'
   i18n: 'sitemap'
