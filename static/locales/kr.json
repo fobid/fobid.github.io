@@ -20,6 +20,7 @@
   },
   "projects":{
     "my_projects": "My Projects",
+    "rxbase": "RxJava(1.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다."
     "readonly": "웹 페이지 스크랩 북입니다. 현재 Android play store 에서 다운받을 수 있습니다.",
     "dodoyoung": "Node.js 로 개발 된 포트폴리오 웹 사이트 입니다.",
     "linkable": "사용자 멘션(@)과 해시태그(#)를 포함한 TextView link click action을 callback으로 받을 수 있는 Android library 입니다.",
