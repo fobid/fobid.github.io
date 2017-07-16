@@ -19,7 +19,7 @@
   i18n: 'linkable'
   repo: 'linkable-text-android'
   img: 'static/img/landing/android.png'
-  desc: "사용자 멘션(@)과 해시태그(#)를 포함한 TextView link click action을 callback으로 받을 수 있는 Android library 입니다."
+  desc: "사용자 mention(@)과 hashtag(#)를 link 할 수 있는 custom TextView 입니다. mention과 hashtag의 사용자 정규 표현식을 지원하며, TextView의 모든 link와 함께 mention과 hashtag의 click action에 대한 callback을 지원하는 Android Library 입니다."
   
 - name: 'WebViewer'
   i18n: 'webviewer'
