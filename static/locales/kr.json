@@ -20,6 +20,7 @@
   },
   "projects":{
     "my_projects": "My Projects",
+    "rxbase2": "RxJava(2.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다."
     "rxbase": "RxJava(1.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다."
     "readonly": "Web page scrapbook application 입니다. Rx 1.x, MVP pattern 으로 설계됐으며, Firebase Database 로 cloud, Realm 으로 local 에 data를 저장하며, cloud와 local data를 동기화하여 push notification을 통해 타기기와의 sync가 지속적으로 이루어지게 됩니다."
     "dodoyoung": "Node.js 로 개발 된 portfolio site 입니다.",
