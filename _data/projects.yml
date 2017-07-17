@@ -1,4 +1,10 @@
 # projects section data
+- name: 'Rxbase2'
+  i18n: 'rxbase2'
+  repo: 'rxbase2-android'
+  img: 'static/img/landing/android.png'
+  desc: 'RxJava(2.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다.'
+  
 - name: 'Rxbase'
   i18n: 'rxbase'
   repo: 'rxbase-android'
