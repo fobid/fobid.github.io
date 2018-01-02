@@ -20,6 +20,7 @@
   },
   "projects":{
     "my_projects": "My Projects",
+    "simple_table": "SimpleTable"
     "rxbase2": "Rxbase2"
     "rxbase": "Rxbase"
     "readonly": "Read Only"
@@ -34,6 +35,10 @@
   },
   "career":{
     "my_career": "My Career",
+    "mealant": "Mealant",
+    "mealant_des": "Simple Table Android",
+    "mealant_date": "Sep, 2017",
+    "mealant_job": "Android Developer",
     "university": "Admission",
     "university_des": "I transferred from Joongbu Univ. to Korea National Open Univ.",
     "university_date": "Jul. 2016",
