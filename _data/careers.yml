@@ -1,19 +1,5 @@
 # careers section data
 - name:
-    detail: 편입
-    i18n: university
-  desc:
-    detail: 중부대학교에서 방송통신대학교 2학년 편입
-    i18n: university_des
-  date:
-    detail: Jul. 2016
-    i18n: university_date
-  job:
-    detail: 학생
-    i18n: university_job
-  icon: fa-university
-  
-- name:
     detail: (주)밀랑
     i18n: mealant
   desc:
@@ -26,6 +12,20 @@
     detail: Android 개발자
     i18n: mealant_job
   icon: fa-android
+
+- name:
+    detail: 편입
+    i18n: university
+  desc:
+    detail: 중부대학교에서 방송통신대학교 2학년 편입
+    i18n: university_des
+  date:
+    detail: Jul. 2016
+    i18n: university_date
+  job:
+    detail: 학생
+    i18n: university_job
+  icon: fa-university
 
 - name:
     detail: 주식회사 파트너
