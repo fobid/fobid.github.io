@@ -12,12 +12,26 @@
     detail: 학생
     i18n: university_job
   icon: fa-university
+  
+- name:
+    detail: (주)밀랑
+    i18n: mealant
+  desc:
+    detail: 심플테이블 Android service를 개발하고 있습니다.
+    i18n: mealant_des
+  date:
+    detail: Sep. 2017
+    i18n: mealant_date
+  job:
+    detail: Android 개발자
+    i18n: mealant_job
+  icon: fa-android
 
 - name:
     detail: 주식회사 파트너
     i18n: partner
   desc:
-    detail: 현재 파트너에서 ReactiveX(Rx)를 활용한 Grap(https://grap.io) Android service를 개발하고 있습니다.
+    detail: 파트너에서 ReactiveX(Rx)를 활용한 Grap(https://grap.io) Android service를 개발하고 있습니다.
     i18n: partner_des
   date:
     detail: Jan. 2015
