@@ -20,17 +20,17 @@
   },
   "projects":{
     "my_projects": "My Projects",
-    "simple_table": "SimpleTable"
-    "rxbase2": "Rxbase2"
-    "rxbase": "Rxbase"
-    "readonly": "Read Only"
-    "dodoyoung": "Dodoyoung"
-    "linkable": "Linkable"
-    "webviewer": "Webviewer"
-    "grap": "Grap"
-    "blossom": "Blossom"
-    "sitemap": "Sitemap"
-    "shocount": "Shocount"
+    "simple_table": "SimpleTable",
+    "rxbase2": "Rxbase2",
+    "rxbase": "Rxbase",
+    "readonly": "Read Only",
+    "dodoyoung": "Dodoyoung",
+    "linkable": "Linkable",
+    "webviewer": "Webviewer",
+    "grap": "Grap",
+    "blossom": "Blossom",
+    "sitemap": "Sitemap",
+    "shocount": "Shocount",
     "shoting": "Shoting"
   },
   "career":{
@@ -50,7 +50,7 @@
     "shoplay": "Shoplay Co.,Ltd",
     "shoplay_des": "In Shoplay, I started to be a developer.",
     "shoplay_date": "Jun. 2014",
-    "shoplay_job": "Server, Android, Web Developer",
+    "shoplay_job": "Server, Android, Web Developer"
   },
   "blog":{
     "my_blog": "My Blog"
