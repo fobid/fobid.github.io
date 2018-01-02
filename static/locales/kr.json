@@ -20,6 +20,7 @@
   },
   "projects":{
     "my_projects": "My Projects",
+    "simple_table": "심플테이블 Android"
     "rxbase2": "RxJava(2.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다."
     "rxbase": "RxJava(1.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다."
     "readonly": "Web page scrapbook application 입니다. Rx 1.x, MVP pattern 으로 설계됐으며, Firebase Database 로 cloud, Realm 으로 local 에 data를 저장하며, cloud와 local data를 동기화하여 push notification을 통해 타기기와의 sync가 지속적으로 이루어지게 됩니다."
@@ -34,6 +35,10 @@
   },
   "career":{
     "my_career": "My Career",
+    "mealant": "(주)밀랑",
+    "mealant_des": "심플테이블 Android 개발",
+    "mealant_date": "2017년 9월",
+    "mealant_job": "Android 개발자",
     "university": "편입",
     "university_des": "중부대학교에서 방송통신대학교 2학년 편입",
     "university_date": "2016년 7월",
