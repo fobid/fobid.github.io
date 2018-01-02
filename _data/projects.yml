@@ -2,7 +2,7 @@
 
 - name: 'Simple Table'
   i18n: 'simple_table'
-  img: 'static/img/landing/grap.png'
+  img: 'static/img/landing/simple_table.png'
   desc: "현재 (주)밀랑에서 제공하는 심플테이블 Android 개발을 담당하고 있습니다."
   
 - name: 'Rxbase2'
