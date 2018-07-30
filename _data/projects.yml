@@ -2,8 +2,13 @@
 
 - name: 'Tabling'
   i18n: 'tabling'
-  img: 'static/img/landing/simple_table.png'
+  img: 'static/img/langing/tabling.png'
   desc: "현재 (주)밀랑에서 제공하는 테이블링 Android 개발을 담당하고 있습니다."
+
+- name: 'Tabling for Admin'
+  i18n: 'tabling_admin'
+  img: 'static/img/landing/tabling_admin.png'
+  desc: "현재 (주)밀랑에서 제공하는 테이블링(매장용) Android 개발을 담당하고 있습니다."
   
 - name: 'Rxbase2'
   i18n: 'rxbase2'
