@@ -23,6 +23,14 @@
             <ul class="list-inline social-icon">
                 <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a>
                 </li>
+                {% if link.facebook %}
+                <li><a href="{{ link.facebook }}" target="blank"><i class="fa fa-facebook"></i></a>
+                </li>
+                {% endif %}
+                {% if link.instagram %}
+                <li><a href="{{ link.instagram }}" target="blank"><i class="fa fa-instagram"></i></a>
+                </li>
+                {% endif %}
                 <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a>
                 </li>
             </ul>
