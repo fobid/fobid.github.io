@@ -7,6 +7,9 @@
   
 - name: ReactiveX
   percentage: 80
+
+- name: Kotlin
+  percentage: 68
   
 - name: HTML/CSS
   percentage: 55
