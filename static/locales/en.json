@@ -1,63 +1,63 @@
-{	
-	"website":{
-  	"title": "James"
-	},
-	"nav":{
-    "home": "Home",
-    "about_me": "About",
-    "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
-    "blog": "Blog",
-    "link": "Link"
-	},
-	"about_me":{
-    "about_me": "About Me",
-    "des": "I'm an Android developer, and interested in ReactiveX(Rx) and Open Source. I'm always thinking how to make my codes come to be clean code with strong architecture. Life is continuous learning. I have to practice to be professional through the learning. That's why Skateboarding and DJing turning into my hobby, and Video Production is my new hobby."
-	},
-	"skills":{
-  	"my_skills": "My Skills"
-	},
-	"projects":{
-    "my_projects": "My Projects",
-    "simple_table": "SimpleTable",
-    "rxbase2": "Rxbase2",
-    "rxbase": "Rxbase",
-    "readonly": "Read Only",
-    "dodoyoung": "Dodoyoung",
-    "linkable": "Linkable",
-    "webviewer": "Webviewer",
-    "grap": "Grap",
-    "blossom": "Blossom",
-    "sitemap": "Sitemap",
-    "shocount": "Shocount",
-    "shoting": "Shoting"
-	},
-	"career":{
-    "my_career": "My Career",
-    "mealant": "Mealant",
-    "mealant_des": "Simple Table Android",
-    "mealant_date": "Sep, 2017",
-    "mealant_job": "Android Developer",
-    "university": "Admission",
-    "university_des": "I transferred from Joongbu Univ. to Korea National Open Univ.",
-    "university_date": "Jul. 2016",
-    "university_job": "Student",
-    "partner": "Partner Co.,Ltd",
-    "partner_des": "Now I'm in Partner, I developed GRAP(https://grap.io) Android using ReactiveX(Rx).",
-    "partner_date": "Jan. 2015",
-    "partner_job": "Android Developer",
-    "shoplay": "Shoplay Co.,Ltd",
-    "shoplay_des": "In Shoplay, I started to be a developer.",
-    "shoplay_date": "Jun. 2014",
-    "shoplay_job": "Server, Android, Web Developer"
-	},
-	"blog":{
-	  "my_blog": "My Blog"
-	},
-	"link":{
-    "link": "Link",
-    "view": "views"
-	}
-	
+{
+    "website": {
+        "title": "James"
+    },
+    "nav": {
+        "home": "Home",
+        "about_me": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "career": "Career",
+        "blog": "Blog",
+        "link": "Link"
+    },
+    "about_me": {
+        "about_me": "About Me",
+        "des": "I'm an Android developer, and interested in ReactiveX(Rx) and Open Source. I'm always thinking how to make my codes come to be clean code with strong architecture. Life is continuous learning. I have to practice to be professional through the learning. That's why Skateboarding and DJing turning into my hobby, and Video Production is my new hobby."
+    },
+    "skills": {
+        "my_skills": "My Skills"
+    },
+    "projects": {
+        "my_projects": "My Projects",
+        "tabling": "Tabling",
+        "tabling_admin": "Tabling for Admin",
+        "rxbase2": "Rxbase2",
+        "rxbase": "Rxbase",
+        "readonly": "Read Only",
+        "dodoyoung": "Dodoyoung",
+        "linkable": "Linkable",
+        "webviewer": "Webviewer",
+        "grap": "Grap",
+        "blossom": "Blossom",
+        "sitemap": "Sitemap",
+        "shocount": "Shocount",
+        "shoting": "Shoting"
+    },
+    "career": {
+        "my_career": "My Career",
+        "mealant": "Mealant",
+        "mealant_des": "Tabling Android",
+        "mealant_date": "Sep, 2017",
+        "mealant_job": "Android Developer",
+        "university": "Admission",
+        "university_des": "I transferred from Joongbu Univ. to Korea National Open Univ.",
+        "university_date": "Jul. 2016",
+        "university_job": "Student",
+        "partner": "Partner Co.,Ltd",
+        "partner_des": "Now I'm in Partner, I developed GRAP(https://grap.io) Android using ReactiveX(Rx).",
+        "partner_date": "Jan. 2015",
+        "partner_job": "Android Developer",
+        "shoplay": "Shoplay Co.,Ltd",
+        "shoplay_des": "In Shoplay, I started to be a developer.",
+        "shoplay_date": "Jun. 2014",
+        "shoplay_job": "Server, Android, Web Developer"
+    },
+    "blog": {
+        "my_blog": "My Blog"
+    },
+    "link": {
+        "link": "Link",
+        "view": "views"
+    }
 }
