@@ -1,5 +1,10 @@
 # projects section data
 
+- name: 'Travlog'
+  i18n: 'travlog'
+  img: 'static/img/landing/travlog.png'
+  desc: "Travlog"
+
 - name: 'Tabling'
   i18n: 'tabling'
   img: 'static/img/landing/tabling.png'

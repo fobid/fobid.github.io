@@ -1,8 +1,8 @@
 {
-  "website":{
+  "website": {
     "title": "James"
   },
-  "nav":{
+  "nav": {
     "home": "Home",
     "about_me": "About",
     "skills": "Skills",
@@ -11,15 +11,16 @@
     "blog": "Blog",
     "link": "Link"
   },
-  "about_me":{
+  "about_me": {
     "about_me": "About Me",
     "des": "Android application 을 개발하고 있습니다. ReactiveX(Rx) 기술을 좋아하고, Open Source 에 관심이 많습니다. Clean code를 항상 고민합니다. 인생은 배움의 연속이라고 생각합니다. 배움을 통하여 이를 숙달하기 까지 많은 연습을 하고 있습니다. 그렇기 때문인지 숙련이 필요한 Skateboard, DJing이 취미이며, 최근에는 영상 제작도 취미로 하고있습니다."
   },
-  "skills":{
+  "skills": {
     "my_skills": "My Skills"
   },
-  "projects":{
+  "projects": {
     "my_projects": "My Projects",
+    "travlog": "Travlog Android",
     "tabling": "테이블링 Android",
     "tabling_admin": "테이블링(매장용) Android",
     "rxbase2": "RxJava(2.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다.",
@@ -34,10 +35,10 @@
     "shocount": "쇼카운트는 가상 계좌 시스템 서비스 입니다. Shoting 앱과 연동하여 모바일 머니를 가상 계좌로 입금하고, 이를 실제 계좌로 송금할 수 있습니다.",
     "shoting": "쇼팅은 위치 기반 채팅 앱입니다. server side는 JAVA와 MySQL, client는 Android와 PHP로 구성됐습니다. GPS 데이터로 대한민국 내 주요 도시 별, 사용자 연령대 별 채팅방을 만들어놓고, 사용자 GPS 데이터에 포함되는 도시와 연령대의 채팅방에 다중으로 입장합니다. GCM으로 채팅을 구현하고, PG사와 가상 계좌(Shocount) 연동으로 모바일 머니 충전 및 실제 계좌로 송금 서비스가 가능합니다."
   },
-  "career":{
+  "career": {
     "my_career": "My Career",
     "mealant": "(주)밀랑",
-    "mealant_des": "심플테이블 Android 개발",
+    "mealant_des": "테이블링 Android 개발",
     "mealant_date": "2017년 9월",
     "mealant_job": "Android 개발자",
     "university": "편입",
@@ -53,12 +54,11 @@
     "shoplay_date": "2014년 6월",
     "shoplay_job": "Server, Web, Android 개발자"
   },
-  "blog":{
+  "blog": {
     "my_blog": "My Blog"
   },
-  "link":{
+  "link": {
     "link": "Link",
     "view": "Views"
   }
-
 }
