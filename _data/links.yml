@@ -1,8 +1,14 @@
 # links section data
-- last_name: Blog
+- last_name: Blog(Tistory)
   first_name:
   desc: 'Tistory.'
   website: 'http://blog.fobid.me'
+  email: 'fobidlim@gmail.com'
+
+- last_name: Blog(Medium)
+  first_name:
+  desc: 'Medium'
+  website: 'https://medium.com/@fobidlim'
   email: 'fobidlim@gmail.com'
 
 - last_name: Lim
@@ -11,10 +17,12 @@
   website: 'https://www.linkedin.com/in/fobid/'
   email: 'fobidlim@gmail.com'
 
-- last_name: TFC
+- last_name: tfckr
   first_name: 
   desc: 'Threatful Culture'
   website: 'https://www.tfckr.com/'
+  facebook: 'https://www.facebook.com/threatfulculture/'
+  instagram: 'https://www.instagram.com/tfckr/'
   email: 'tfcseoul@gmail.com'
 
 - last_name: Kim
