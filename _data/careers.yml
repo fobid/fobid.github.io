@@ -3,7 +3,7 @@
     detail: (주)밀랑
     i18n: mealant
   desc:
-    detail: 심플테이블 Android service를 개발하고 있습니다.
+    detail: 테이블링 Android service를 개발하고 있습니다.
     i18n: mealant_des
   date:
     detail: Sep. 2017
