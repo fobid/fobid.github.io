@@ -5,8 +5,7 @@ title: "James"
 description: "James's portfolio."
 keywords: "james,fobid,portfolio,github,gh-pages"
 baseurl: "/"
-url: "https://fobid.github.io"
-# url: "http://127.0.0.1:4000"
+url: "https://fobidlim.github.io"
 
 # author
 author:
