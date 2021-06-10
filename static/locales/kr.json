@@ -22,7 +22,7 @@
     "my_projects": "My Projects",
     "flex_tags": "Flex Tags",
     "domeme": "짤해",
-    "look-pin": "룩핀",
+    "look_pin": "룩핀",
     "tabling": "테이블링 Android",
     "tabling_admin": "테이블링(매장용) Android",
     "rxbase2": "RxJava(2.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다.",
