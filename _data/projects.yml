@@ -51,18 +51,18 @@
   i18n: 'linkable'
   repo: 'linkable-text-android'
   img: 'static/img/landing/android.png'
-  desc: "사용자 mention(@)과 hashtag(#)를 link 할 수 있는 custom TextView 입니다. mention과 hashtag의 사용자 정규 표현식을 지원하며, TextView의 모든 link와 함께 mention과 hashtag의 click action에 대한 callback을 지원하는 Android Library 입니다."
+  desc: "사용자 멘션(@)과 해시태그(#)를 링크 할 수 있는 커스텀뷰 라이브러리. 멘션과 해시태그는 사용자 커스텀 정규 표현식 지원. TextView의 기본 링크와 함께 멘션, 해시태그의 클릭 액션을 콜백으로 지원하는 안드로이드 라이브러리."
   
 - name: 'WebViewer'
   i18n: 'webviewer'
   repo: 'webviewer-android'
   img: 'static/img/landing/android.png'
-  desc: "Custom web viewer를 지원하는 Android Library 입니다."
+  desc: "인앱 웹뷰 안드로이드 라이브러리."
 
 - name: '그랩'
   i18n: 'grap'
   img: 'static/img/landing/grap.png'
-  desc: "주식회사 파트너에서 운영하는 Grap(https://grap.io/) Android 개발을 담당하고 있으며, Rx 1.x와 MVP pattern 으로 개발되었습니다. FCM과 함께 MQTT push module을 사용하며, 사내 CI(Jenkins)를 구축하여 test 및 배포 자동화를 하고있습니다."
+  desc: "주식회사 파트너에서 운영하는 그랩(https://grap.io/) 안드로이드 개발 담당, Rx 2.x와 MVP 패턴. FCM, MQTT 푸시 사용. Jenkins CI 구축, 테스트 및 배포 자동화."
 
 - name: '블라썸'
   i18n: 'blossom'
