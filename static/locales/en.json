@@ -20,9 +20,9 @@
     },
     "projects": {
         "my_projects": "My Projects",
-        "flextags": "Flex Tags",
+        "flex-tags": "Flex Tags",
         "domeme": "Do Meme",
-        "lookPin": "LookPin",
+        "look-pin": "LookPin",
         "tabling": "Tabling",
         "tabling_admin": "Tabling for Admin",
         "rxbase2": "Rxbase2",
