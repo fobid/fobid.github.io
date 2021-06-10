@@ -5,7 +5,7 @@
   img: 'static/img/landing/flex_tags.png'
   desc: "Flex Tags"
 
-- name: 'LookPin'
+- name: '짤해'
   i18n: 'domeme'
   img: 'static/img/landing/domeme.png'
   desc: "짤해"
