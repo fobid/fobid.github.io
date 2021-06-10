@@ -10,17 +10,17 @@
   img: 'static/img/landing/domeme.png'
   desc: "짤해"
 
-- name: 'LookPin'
+- name: '룩핀'
   i18n: 'lookPin'
-  img: 'static/img/landing/lookpin.png'
+  img: 'static/img/landing/lookPin.png'
   desc: "룩핀"
 
-- name: 'Tabling'
+- name: '테이블링'
   i18n: 'tabling'
   img: 'static/img/landing/tabling.png'
   desc: "현재 (주)밀랑에서 제공하는 테이블링 Android 개발을 담당하고 있습니다."
 
-- name: 'Tabling for Admin'
+- name: '테이블링(매장용)'
   i18n: 'tabling_admin'
   img: 'static/img/landing/tabling_admin.png'
   desc: "현재 (주)밀랑에서 제공하는 테이블링(매장용) Android 개발을 담당하고 있습니다."
@@ -64,22 +64,22 @@
   img: 'static/img/landing/grap.png'
   desc: "주식회사 파트너에서 운영하는 Grap(https://grap.io/) Android 개발을 담당하고 있으며, Rx 1.x와 MVP pattern 으로 개발되었습니다. FCM과 함께 MQTT push module을 사용하며, 사내 CI(Jenkins)를 구축하여 test 및 배포 자동화를 하고있습니다."
 
-- name: 'Blossom'
+- name: '블라썸'
   i18n: 'blossom'
   img: 'static/img/landing/blossom.png'
   desc: "주식회사 파트너와 신세계 I&C에서 진행하고, 신세계 그룹에서 현재 사용하고 있는 사내 groupware service 입니다. Android 개발을 담당하며 FCM과 함께 MQTT push module을 사용하고, Rx 1.x, Realm, MVP pattern 으로 개발됐습니다."
 
-- name: 'Sitemap'
+- name: '사이트맵'
   i18n: 'sitemap'
   img: 'static/img/landing/sitemap.png'
   desc: "웹앱입니다."
 
-- name: 'Shocount'
+- name: '쇼카운트'
   i18n: 'shocount'
   img: 'static/img/landing/shocount.png'
   desc: "쇼카운트는 가상 계좌 시스템 서비스 입니다. Shoting 앱과 연동하여 모바일 머니를 가상 계좌로 입금하고, 이를 실제 계좌로 송금할 수 있습니다."
 
-- name: 'Shoting'
+- name: '쇼팅'
   i18n: 'shoting'
   img: 'static/img/landing/shoting.png'
   desc: "쇼팅은 위치 기반 채팅 앱입니다. server side는 JAVA와 MySQL, client는 Android와 PHP로 구성됐습니다. GPS 데이터로 대한민국 내 주요 도시 별, 사용자 연령대 별 채팅방을 만들어놓고, 사용자 GPS 데이터에 포함되는 도시와 연령대의 채팅방에 다중으로 입장합니다. GCM으로 채팅을 구현하고, PG사와 가상 계좌(Shocount) 연동으로 모바일 머니 충전 및 실제 계좌로 송금 서비스가 가능합니다."
