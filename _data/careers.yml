@@ -1,5 +1,19 @@
 # careers section data
 - name:
+    detail: 레벨13
+    i18n: level13
+  desc:
+    detail: 룩핀 Android Service를 개발하고 있습니다.
+    i18n: level13_des
+  date:
+    detail: Nov. 2019
+    i18n: level13_date
+  job:
+    detail: Android 개발자
+    i18n: level13_job
+  icon: fa_android
+
+- name:
     detail: (주)밀랑
     i18n: mealant
   desc:
