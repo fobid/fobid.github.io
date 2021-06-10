@@ -2,14 +2,14 @@
 - name: Android
   percentage: 95
 
+- name: Kotlin
+  percentage: 95
+  
 - name: JAVA
   percentage: 85
   
 - name: ReactiveX
   percentage: 80
-
-- name: Kotlin
-  percentage: 95
 
 - name: SQL
   percentage: 40
