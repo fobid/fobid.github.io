@@ -3,44 +3,44 @@
 - name: 'Flex Tags'
   i18n: 'flex_tags'
   img: 'static/img/landing/flex_tags.png'
-  desc: "Flex Tags"
+  desc: "https://play.google.com/store/apps/details?id=com.fobidlim.flextags"
 
 - name: '짤해'
   i18n: 'domeme'
   img: 'static/img/landing/domeme.png'
-  desc: "짤해"
+  desc: "https://play.google.com/store/apps/details?id=com.fobid.zzal"
 
 - name: '룩핀'
   i18n: 'look-pin'
   img: 'static/img/landing/lookPin.png'
-  desc: "레벨13에서 제공하는 룩핀 Android 개발과 클라이언트 개발 팀장을 담당하고 있습니다."
+  desc: "https://play.google.com/store/apps/details?id=com.mozzet.lookpin"
 
 - name: '테이블링'
   i18n: 'tabling'
   img: 'static/img/landing/tabling.png'
-  desc: "(주)밀랑에서 제공하는 테이블링 Android 개발을 담당하고 있습니다."
+  desc: "https://play.google.com/store/apps/details?id=com.mealant.tabling"
 
 - name: '테이블링(매장용)'
   i18n: 'tabling_admin'
   img: 'static/img/landing/tabling_admin.png'
-  desc: "(주)밀랑에서 제공하는 테이블링(매장용) Android 개발을 담당하고 있습니다."
+  desc: "https://play.google.com/store/apps/details?id=com.mealant.simpletable.admin.app"
   
 - name: 'Rxbase2'
   i18n: 'rxbase2'
   repo: 'rxbase2-android'
   img: 'static/img/landing/android.png'
-  desc: 'RxJava(2.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다.'
+  desc: 'https://github.com/fobid/rxbase2-android'
   
 - name: 'Rxbase'
   i18n: 'rxbase'
   repo: 'rxbase-android'
   img: 'static/img/landing/android.png'
-  desc: 'RxJava(1.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다.'
+  desc: 'https://github.com/fobid/rxbase-android'
 
 - name: 'Read Only'
   i18n: 'readonly'
   img: 'static/img/landing/readonly.png'
-  desc: "Web page scrapbook application 입니다. Rx 1.x, MVP pattern 으로 설계됐으며, Firebase Database 로 cloud, Realm 으로 local 에 data를 저장하며, cloud와 local data를 동기화하여 push notification을 통해 타기기와의 sync가 지속적으로 이루어지게 됩니다."
+  desc: "https://play.google.com/store/apps/details?id=com.fobid.readonly"
   
 - name: 'DODOYOUNG'
   i18n: 'dodoyoung'
@@ -51,35 +51,35 @@
   i18n: 'linkable'
   repo: 'linkable-text-android'
   img: 'static/img/landing/android.png'
-  desc: "사용자 멘션(@)과 해시태그(#)를 링크 할 수 있는 커스텀뷰 라이브러리. 멘션과 해시태그는 사용자 커스텀 정규 표현식 지원. TextView의 기본 링크와 함께 멘션, 해시태그의 클릭 액션을 콜백으로 지원하는 안드로이드 라이브러리."
+  desc: "https://github.com/fobid/linkable-text-android\nhttps://play.google.com/store/apps/details?id=com.github.fobid.linkabletext.sample"
   
 - name: 'WebViewer'
   i18n: 'webviewer'
   repo: 'webviewer-android'
   img: 'static/img/landing/android.png'
-  desc: "인앱 웹뷰 안드로이드 라이브러리."
+  desc: "https://github.com/fobid/webviewer-android\nhttps://play.google.com/store/apps/details?id=com.tfc.webviewer.sample"
 
 - name: '그랩'
   i18n: 'grap'
   img: 'static/img/landing/grap.png'
-  desc: "주식회사 파트너에서 운영하는 그랩(https://grap.io/) 안드로이드 개발 담당, Rx 2.x와 MVP 패턴. FCM, MQTT 푸시 사용. Jenkins CI 구축, 테스트 및 배포 자동화."
+  desc: "https://play.google.com/store/apps/details?id=so.partner.app.grap"
 
 - name: '블라썸'
   i18n: 'blossom'
   img: 'static/img/landing/blossom.png'
-  desc: "주식회사 파트너와 신세계 I&C에서 진행하고, 신세계 그룹에서 현재 사용하고 있는 사내 groupware service 입니다. Android 개발을 담당하며 FCM과 함께 MQTT push module을 사용하고, Rx 1.x, Realm, MVP pattern 으로 개발됐습니다."
+  desc: "블라썸"
 
 - name: '사이트맵'
   i18n: 'sitemap'
   img: 'static/img/landing/sitemap.png'
-  desc: "웹앱입니다."
+  desc: "사이트맵"
 
 - name: '쇼카운트'
   i18n: 'shocount'
   img: 'static/img/landing/shocount.png'
-  desc: "쇼카운트는 가상 계좌 시스템 서비스 입니다. Shoting 앱과 연동하여 모바일 머니를 가상 계좌로 입금하고, 이를 실제 계좌로 송금할 수 있습니다."
+  desc: "쇼카운트"
 
 - name: '쇼팅'
   i18n: 'shoting'
   img: 'static/img/landing/shoting.png'
-  desc: "쇼팅은 위치 기반 채팅 앱입니다. server side는 JAVA와 MySQL, client는 Android와 PHP로 구성됐습니다. GPS 데이터로 대한민국 내 주요 도시 별, 사용자 연령대 별 채팅방을 만들어놓고, 사용자 GPS 데이터에 포함되는 도시와 연령대의 채팅방에 다중으로 입장합니다. GCM으로 채팅을 구현하고, PG사와 가상 계좌(Shocount) 연동으로 모바일 머니 충전 및 실제 계좌로 송금 서비스가 가능합니다."
+  desc: "쇼팅"
