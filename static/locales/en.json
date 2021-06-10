@@ -20,8 +20,9 @@
     },
     "projects": {
         "my_projects": "My Projects",
-        "tfckr": "tfckr(https://tfckr.com)",
-        "travlog": "Travlog",
+        "flextags": "Flex Tags",
+        "domeme": "Do Meme",
+        "lookPin": "LookPin"
         "tabling": "Tabling",
         "tabling_admin": "Tabling for Admin",
         "rxbase2": "Rxbase2",
@@ -38,6 +39,10 @@
     },
     "career": {
         "my_career": "My Career",
+        "level13": "Level13",
+        "level13_des": "LookPin Android",
+        "level13_date": "Nov, 2019",
+        "level13_job": "Client-side Team Leader, Android Developer",
         "mealant": "Mealant",
         "mealant_des": "Tabling Android",
         "mealant_date": "Sep, 2017",
