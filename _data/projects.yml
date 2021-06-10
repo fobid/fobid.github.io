@@ -51,13 +51,13 @@
   i18n: 'linkable'
   repo: 'linkable-text-android'
   img: 'static/img/landing/android.png'
-  desc: "https://github.com/fobid/linkable-text-android\nhttps://play.google.com/store/apps/details?id=com.github.fobid.linkabletext.sample"
+  desc: "https://github.com/fobid/linkable-text-android https://play.google.com/store/apps/details?id=com.github.fobid.linkabletext.sample"
   
 - name: 'WebViewer'
   i18n: 'webviewer'
   repo: 'webviewer-android'
   img: 'static/img/landing/android.png'
-  desc: "https://github.com/fobid/webviewer-android\nhttps://play.google.com/store/apps/details?id=com.tfc.webviewer.sample"
+  desc: "https://github.com/fobid/webviewer-android https://play.google.com/store/apps/details?id=com.tfc.webviewer.sample"
 
 - name: 'Grap'
   i18n: 'grap'
