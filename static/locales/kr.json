@@ -20,8 +20,9 @@
   },
   "projects": {
     "my_projects": "My Projects",
-    "tfckr": "tfckr(https://tfckr.com)",
-    "travlog": "Travlog Android",
+    "flextags": "Flex Tags",
+    "domeme": "짤해",
+    "lookPin": "룩핀"
     "tabling": "테이블링 Android",
     "tabling_admin": "테이블링(매장용) Android",
     "rxbase2": "RxJava(2.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다.",
@@ -38,6 +39,10 @@
   },
   "career": {
     "my_career": "My Career",
+    "level13": "레벨13",
+    "level13_des": "룩핀 Android 개발",
+    "level13_date": "2019년 11월",
+    "level13_job": "클라이언트 개발 팀장, Android 개발자",
     "mealant": "(주)밀랑",
     "mealant_des": "테이블링 Android 개발",
     "mealant_date": "2017년 9월",
