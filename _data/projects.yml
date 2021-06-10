@@ -59,7 +59,7 @@
   img: 'static/img/landing/android.png'
   desc: "Custom web viewer를 지원하는 Android Library 입니다."
 
-- name: 'Grap'
+- name: '그랩'
   i18n: 'grap'
   img: 'static/img/landing/grap.png'
   desc: "주식회사 파트너에서 운영하는 Grap(https://grap.io/) Android 개발을 담당하고 있으며, Rx 1.x와 MVP pattern 으로 개발되었습니다. FCM과 함께 MQTT push module을 사용하며, 사내 CI(Jenkins)를 구축하여 test 및 배포 자동화를 하고있습니다."
