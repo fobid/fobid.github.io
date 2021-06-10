@@ -1,26 +1,26 @@
 # projects section data
 
-- name: 'Flex Tags'
+- name: 'FlexTags'
   i18n: 'flex_tags'
   img: 'static/img/landing/flex_tags.png'
   desc: "https://play.google.com/store/apps/details?id=com.fobidlim.flextags"
 
-- name: '짤해'
+- name: 'DoMeme'
   i18n: 'domeme'
   img: 'static/img/landing/domeme.png'
   desc: "https://play.google.com/store/apps/details?id=com.fobid.zzal"
 
-- name: '룩핀'
+- name: 'LookPin'
   i18n: 'look-pin'
   img: 'static/img/landing/lookPin.png'
   desc: "https://play.google.com/store/apps/details?id=com.mozzet.lookpin"
 
-- name: '테이블링'
+- name: 'Tabling'
   i18n: 'tabling'
   img: 'static/img/landing/tabling.png'
   desc: "https://play.google.com/store/apps/details?id=com.mealant.tabling"
 
-- name: '테이블링(매장용)'
+- name: 'Tabling Admin'
   i18n: 'tabling_admin'
   img: 'static/img/landing/tabling_admin.png'
   desc: "https://play.google.com/store/apps/details?id=com.mealant.simpletable.admin.app"
@@ -59,27 +59,27 @@
   img: 'static/img/landing/android.png'
   desc: "https://github.com/fobid/webviewer-android\nhttps://play.google.com/store/apps/details?id=com.tfc.webviewer.sample"
 
-- name: '그랩'
+- name: 'Grap'
   i18n: 'grap'
   img: 'static/img/landing/grap.png'
   desc: "https://play.google.com/store/apps/details?id=so.partner.app.grap"
 
-- name: '블라썸'
+- name: 'Blossom'
   i18n: 'blossom'
   img: 'static/img/landing/blossom.png'
   desc: "블라썸"
 
-- name: '사이트맵'
+- name: 'Sitemap'
   i18n: 'sitemap'
   img: 'static/img/landing/sitemap.png'
   desc: "사이트맵"
 
-- name: '쇼카운트'
+- name: 'Shocount'
   i18n: 'shocount'
   img: 'static/img/landing/shocount.png'
   desc: "쇼카운트"
 
-- name: '쇼팅'
+- name: 'Shoting'
   i18n: 'shoting'
   img: 'static/img/landing/shoting.png'
   desc: "쇼팅"
