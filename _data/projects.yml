@@ -13,17 +13,17 @@
 - name: '룩핀'
   i18n: 'look-pin'
   img: 'static/img/landing/lookPin.png'
-  desc: "룩핀"
+  desc: "레벨13에서 제공하는 룩핀 Android 개발과 클라이언트 개발 팀장을 담당하고 있습니다."
 
 - name: '테이블링'
   i18n: 'tabling'
   img: 'static/img/landing/tabling.png'
-  desc: "현재 (주)밀랑에서 제공하는 테이블링 Android 개발을 담당하고 있습니다."
+  desc: "(주)밀랑에서 제공하는 테이블링 Android 개발을 담당하고 있습니다."
 
 - name: '테이블링(매장용)'
   i18n: 'tabling_admin'
   img: 'static/img/landing/tabling_admin.png'
-  desc: "현재 (주)밀랑에서 제공하는 테이블링(매장용) Android 개발을 담당하고 있습니다."
+  desc: "(주)밀랑에서 제공하는 테이블링(매장용) Android 개발을 담당하고 있습니다."
   
 - name: 'Rxbase2'
   i18n: 'rxbase2'
