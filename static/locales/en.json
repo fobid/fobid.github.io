@@ -20,7 +20,7 @@
     },
     "projects": {
         "my_projects": "My Projects",
-        "flex_tags": "https://play.google.com/store/apps/details?id=com.fobidlim.flextags",
+        "flex_tags": "<a href='https://play.google.com/store/apps/details?id=com.fobidlim.flextags'>Google Play</a>",
         "domeme": "https://play.google.com/store/apps/details?id=com.fobid.zzal",
         "look-pin": "https://play.google.com/store/apps/details?id=com.mozzet.lookpin",
         "tabling": "https://play.google.com/store/apps/details?id=com.mealant.tabling",
