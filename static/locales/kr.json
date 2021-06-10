@@ -22,7 +22,7 @@
     "my_projects": "My Projects",
     "flextags": "Flex Tags",
     "domeme": "짤해",
-    "lookPin": "룩핀"
+    "lookPin": "룩핀",
     "tabling": "테이블링 Android",
     "tabling_admin": "테이블링(매장용) Android",
     "rxbase2": "RxJava(2.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다.",
@@ -52,7 +52,7 @@
     "university_date": "2016년 7월",
     "university_job": "학생",
     "partner": "주식회사 파트너",
-    "partner_des": "현재 파트너에서 ReactiveX(Rx)를 활용한 Grap(https://grap.io) Android service를 개발하고 있습니다.",
+    "partner_des": "파트너에서 ReactiveX(Rx)를 활용한 Grap(https://grap.io) Android service를 개발하고 있습니다.",
     "partner_date": "2015년 1월",
     "partner_job": "Android 개발자",
     "shoplay": "주식회사 쇼플레이",
