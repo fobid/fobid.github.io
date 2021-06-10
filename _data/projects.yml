@@ -1,14 +1,19 @@
 # projects section data
 
-- name: 'TFCKR'
-  i18n: 'tfckr'
-  img: 'static/img/landing/tfckr.png'
-  desc: "tfckr(https://tfckr.com)"
+- name: 'Flex Tags'
+  i18n: 'flex_tags'
+  img: 'static/img/landing/flex_tags.png'
+  desc: "Flex Tags"
 
-- name: 'Travlog'
-  i18n: 'travlog'
-  img: 'static/img/landing/travlog.png'
-  desc: "Travlog"
+- name: 'LookPin'
+  i18n: 'domeme'
+  img: 'static/img/landing/domeme.png'
+  desc: "짤해"
+
+- name: 'LookPin'
+  i18n: 'lookPin'
+  img: 'static/img/landing/lookpin.png'
+  desc: "룩핀"
 
 - name: 'Tabling'
   i18n: 'tabling'
@@ -32,7 +37,7 @@
   img: 'static/img/landing/android.png'
   desc: 'RxJava(1.x)를 사용하여 MVP pattern의 기본 요소들이 설계 된 Android library 입니다.'
 
-- name: 'Read Only(Beta)'
+- name: 'Read Only'
   i18n: 'readonly'
   img: 'static/img/landing/readonly.png'
   desc: "Web page scrapbook application 입니다. Rx 1.x, MVP pattern 으로 설계됐으며, Firebase Database 로 cloud, Realm 으로 local 에 data를 저장하며, cloud와 local data를 동기화하여 push notification을 통해 타기기와의 sync가 지속적으로 이루어지게 됩니다."
