@@ -11,7 +11,7 @@
   desc: "짤해"
 
 - name: '룩핀'
-  i18n: 'lookPin'
+  i18n: 'look-pin'
   img: 'static/img/landing/lookPin.png'
   desc: "룩핀"
 
